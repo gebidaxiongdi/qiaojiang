@@ -1,4 +1,4 @@
-name: 自动抓取 + 评分 + 部署
+name: 自动抓取 + ECC导入 + 评分 + 部署
 on:
   schedule:
     - cron: '0 */6 * * *'
@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -18,6 +20,11 @@ jobs:
 
       - name: 抓取补充数据（skills.sh）
         run: python scripts/fetch-extra.py
+
+      - name: 导入 ECC 生态技能（261个）
+        run: |
+          git clone --depth 1 https://github.com/affaan-m/ECC.git /tmp/ecc
+          python scripts/import-ecc-skills.py --ecc-path /tmp/ecc/skills
 
       - name: 优化分类
         run: python scripts/optimize-categories.py

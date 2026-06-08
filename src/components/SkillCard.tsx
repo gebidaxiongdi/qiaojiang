@@ -45,7 +45,6 @@ export default function SkillCard({ skill }: { skill: Skill }) {
         padding: 24,
         cursor: 'pointer',
         position: 'relative',
-        overflow: 'hidden',
         transition: 'all 0.3s ease',
       }}
       onClick={() => window.open(skill.url, '_blank')}
@@ -107,15 +106,71 @@ export default function SkillCard({ skill }: { skill: Skill }) {
             </span>
           </div>
         </div>
-        {/* 评分环 44px */}
+      {/* 评分环 44px + hover提示 */}
+      <div style={{ position: 'relative', flexShrink: 0, marginLeft: 12 }}>
         <div style={{
           width: 44, height: 44, borderRadius: '50%', display: 'flex',
           alignItems: 'center', justifyContent: 'center', fontWeight: 700,
-          fontSize: 14, flexShrink: 0, marginLeft: 12,
+          fontSize: 14, cursor: 'help',
           color: sc.color, border: sc.border,
-        }}>
+          transition: 'all 0.2s ease',
+        }}
+          onMouseEnter={e => {
+            e.currentTarget.style.transform = 'scale(1.1)';
+            const tip = e.currentTarget.parentElement?.querySelector('.score-tip') as HTMLElement;
+            if (tip) tip.style.display = 'block';
+          }}
+          onMouseLeave={e => {
+            e.currentTarget.style.transform = '';
+            const tip = e.currentTarget.parentElement?.querySelector('.score-tip') as HTMLElement;
+            if (tip) tip.style.display = 'none';
+          }}
+        >
           {skill.score}
         </div>
+        {/* 评分规则弹窗 */}
+        <div className="score-tip" style={{
+          display: 'none',
+          position: 'absolute',
+          top: '50%',
+          left: 58,
+          transform: 'translateY(-50%)',
+          background: 'rgba(20, 18, 30, 0.55)',
+          backdropFilter: 'blur(24px) saturate(1.4)',
+          WebkitBackdropFilter: 'blur(24px) saturate(1.4)',
+          border: '1px solid rgba(255,255,255,0.08)',
+          borderRadius: 12,
+          padding: '12px 16px',
+          width: 210,
+          zIndex: 50,
+          boxShadow: '0 8px 40px rgba(0,0,0,0.2)',
+          fontSize: 11,
+          lineHeight: 1.8,
+          color: 'rgba(255,255,255,0.75)',
+          letterSpacing: '0.3px',
+        }}>
+          <div style={{ fontWeight: 700, marginBottom: 4, color: '#a78bfa', fontSize: 12 }}>📊 评分规则</div>
+          <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+            <span>⭐ 社区人气</span><span style={{ color: 'rgba(255,255,255,0.4)' }}>20%</span>
+          </div>
+          <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+            <span>🛡️ 安全可靠</span><span style={{ color: 'rgba(255,255,255,0.4)' }}>20%</span>
+          </div>
+          <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+            <span>🕐 维护活跃</span><span style={{ color: 'rgba(255,255,255,0.4)' }}>20%</span>
+          </div>
+          <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+            <span>📋 项目健全</span><span style={{ color: 'rgba(255,255,255,0.4)' }}>15%</span>
+          </div>
+          <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+            <span>📦 用户采用</span><span style={{ color: 'rgba(255,255,255,0.4)' }}>15%</span>
+          </div>
+          <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+            <span>🔄 平台兼容</span><span style={{ color: 'rgba(255,255,255,0.4)' }}>10%</span>
+          </div>
+          <div style={{ marginTop: 6, fontSize: 10, color: 'rgba(255,255,255,0.3)', textAlign: 'center' }}>满分10分，越高越好</div>
+        </div>
+      </div>
       </div>
 
       {/* 利益点（紫色高亮 15px/600） */}

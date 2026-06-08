@@ -35,7 +35,7 @@ def main():
     for s in skills:
         source = s.get('source', 'github')
 
-        if source == 'github':
+        if source in ('github', 'ecc'):
             stars = s.get('stars', 0) or 0
             full_name = s.get('url', '').replace('https://github.com/', '')
             license_id = s.get('license', '')
@@ -43,6 +43,13 @@ def main():
             pop_score = calc_popularity(stars, github_max_stars)
             sec_score = calc_security_github(license_id)
             dev_score = calc_developer_github(full_name, stars)
+            
+            # ECC 来源加分（来自182K+ stars的知名项目）
+            if source == 'ecc':
+                # ECC skill 本身无独立star，但来自高知名度项目，给予基准分
+                pop_score = max(pop_score, 6.0)
+                dev_score = max(dev_score, 7.0)
+                sec_score = max(sec_score, 7.0)
         else:
             dls = s.get('downloads', 0) or 0
             source_str = s.get('url', '').replace('https://github.com/', '')
@@ -85,8 +92,14 @@ def main():
         print(f'     {s["score"]}分 - {s["name"]} ({val:,}) [{src}]')
 
     # 检查跨平台公平性
-    gh_avg = sum(s['score'] for s in skills if s.get('source') == 'github') / max(len(github_skills), 1)
-    ss_avg = sum(s['score'] for s in skills if s.get('source') == 'skills-sh') / max(len(skillssh_skills), 1)
+    gh_skills = [s for s in skills if s.get('source') in ('github', 'ecc')]
+    ss_skills = [s for s in skills if s.get('source') == 'skills-sh']
+    gh_avg = sum(s['score'] for s in gh_skills) / max(len(gh_skills), 1)
+    ss_avg = sum(s['score'] for s in ss_skills) / max(len(ss_skills), 1)
+    ecc_skills = [s for s in skills if s.get('source') == 'ecc']
+    if ecc_skills:
+        ecc_avg = sum(s['score'] for s in ecc_skills) / len(ecc_skills)
+        print(f'   ECC 平均分: {ecc_avg:.1f}')
     print(f'   GitHub 平均分: {gh_avg:.1f}')
     print(f'   skills.sh 平均分: {ss_avg:.1f}')
 
