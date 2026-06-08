@@ -1,0 +1,1795 @@
+[
+  {
+    "id": "ecc",
+    "name": "ECC",
+    "benefit": "让AI记住你的所有信息，告别每次都要重新介绍的烦恼",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "category": "办公必备",
+    "score": 9.5,
+    "stars": 210008,
+    "downloads": 531958,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/affaan-m/ECC.git",
+    "license": "MIT",
+    "url": "https://github.com/affaan-m/ECC",
+    "tags": [
+      "记忆",
+      "搜索",
+      "安全",
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "caveman",
+    "name": "caveman",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "category": "AI调教",
+    "score": 8.5,
+    "stars": 69837,
+    "downloads": 109257,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/JuliusBrussee/caveman.git",
+    "license": "MIT",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "awesome-claude-skills",
+    "name": "awesome-claude-skills",
+    "benefit": "装了这个Skill，你的AI就能用上awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "category": "AI调教",
+    "score": 8.2,
+    "stars": 63650,
+    "downloads": 133690,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/ComposioHQ/awesome-claude-skills.git",
+    "license": "N/A",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "tags": [
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "graphify",
+    "name": "graphify",
+    "benefit": "让AI管理你的笔记和知识库，查找资料不用自己翻",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "category": "视频制作",
+    "score": 8.1,
+    "stars": 62195,
+    "downloads": 126335,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/safishamsi/graphify.git",
+    "license": "MIT",
+    "url": "https://github.com/safishamsi/graphify",
+    "tags": [
+      "笔记",
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "open-design",
+    "name": "open-design",
+    "benefit": "让AI自己上网查资料，比手动搜索快得多",
+    "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen ",
+    "category": "办公必备",
+    "score": 8.1,
+    "stars": 61096,
+    "downloads": 129586,
+    "updated": "2026-06-08",
+    "install": "npx skills add open-design",
+    "license": "Apache-2.0",
+    "url": "https://github.com/nexu-io/open-design",
+    "tags": [
+      "搜索",
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "hermes",
+      "claude",
+      "codex",
+      "openclaw"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "awesome-openclaw-skills",
+    "name": "awesome-openclaw-skills",
+    "benefit": "装了这个Skill，你的AI就能用上awesome-openclaw-skills",
+    "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
+    "category": "AI调教",
+    "score": 7.5,
+    "stars": 49978,
+    "downloads": 98668,
+    "updated": "2026-06-08",
+    "install": "npx skills add awesome-openclaw-skills",
+    "license": "MIT",
+    "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+    "tags": [
+      "AI调教"
+    ],
+    "source": "github",
+    "platforms": [
+      "openclaw"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "jeecgboot",
+    "name": "JeecgBoot",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。",
+    "category": "网站设计",
+    "score": 7.3,
+    "stars": 46658,
+    "downloads": 207118,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/jeecgboot/JeecgBoot.git",
+    "license": "Apache-2.0",
+    "url": "https://github.com/jeecgboot/JeecgBoot",
+    "tags": [
+      "低代码",
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "cowagent",
+    "name": "CowAgent",
+    "benefit": "让AI管理你的笔记和知识库，查找资料不用自己翻",
+    "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+    "category": "AI调教",
+    "score": 7.3,
+    "stars": 45137,
+    "downloads": 146897,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/zhayujie/CowAgent.git",
+    "license": "MIT",
+    "url": "https://github.com/zhayujie/CowAgent",
+    "tags": [
+      "笔记",
+      "记忆",
+      "自动化",
+      "ChatGPT"
+    ],
+    "source": "github",
+    "platforms": [
+      "all"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "antigravity-awesome-skills",
+    "name": "antigravity-awesome-skills",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.",
+    "category": "AI调教",
+    "score": 7.0,
+    "stars": 40008,
+    "downloads": 104788,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/sickn33/antigravity-awesome-skills.git",
+    "license": "MIT",
+    "url": "https://github.com/sickn33/antigravity-awesome-skills",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "obsidian-skills",
+    "name": "obsidian-skills",
+    "benefit": "让AI管理你的笔记和知识库，查找资料不用自己翻",
+    "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+    "category": "办公必备",
+    "score": 6.7,
+    "stars": 34855,
+    "downloads": 59425,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/kepano/obsidian-skills.git",
+    "license": "MIT",
+    "url": "https://github.com/kepano/obsidian-skills",
+    "tags": [
+      "笔记"
+    ],
+    "source": "github",
+    "platforms": [
+      "all"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "last30days-skill",
+    "name": "last30days-skill",
+    "benefit": "让AI自己上网查资料，比手动搜索快得多",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "category": "AI调教",
+    "score": 6.6,
+    "stars": 31721,
+    "downloads": 58141,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/mvanhorn/last30days-skill.git",
+    "license": "MIT",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "tags": [
+      "搜索"
+    ],
+    "source": "github",
+    "platforms": [
+      "all"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "openviking",
+    "name": "OpenViking",
+    "benefit": "让AI记住你的所有信息，告别每次都要重新介绍的烦恼",
+    "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+    "category": "AI调教",
+    "score": 6.3,
+    "stars": 25284,
+    "downloads": 44794,
+    "updated": "2026-06-08",
+    "install": "npx skills add openviking",
+    "license": "AGPL-3.0",
+    "url": "https://github.com/volcengine/OpenViking",
+    "tags": [
+      "记忆"
+    ],
+    "source": "github",
+    "platforms": [
+      "openclaw"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "planning-with-files",
+    "name": "planning-with-files",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.",
+    "category": "AI调教",
+    "score": 6.1,
+    "stars": 22856,
+    "downloads": 43046,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/OthmanAdi/planning-with-files.git",
+    "license": "MIT",
+    "url": "https://github.com/OthmanAdi/planning-with-files",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "activepieces",
+    "name": "activepieces",
+    "benefit": "让AI通过MCP协议连接各种工具和服务",
+    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+    "category": "其他",
+    "score": 6.1,
+    "stars": 22623,
+    "downloads": 60223,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/activepieces/activepieces.git",
+    "license": "NOASSERTION",
+    "url": "https://github.com/activepieces/activepieces",
+    "tags": [
+      "自动化",
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "claude-skills",
+    "name": "claude-skills",
+    "benefit": "让AI自己上网查资料，比手动搜索快得多",
+    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commerc",
+    "category": "办公必备",
+    "score": 5.9,
+    "stars": 17447,
+    "downloads": 41527,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/alirezarezvani/claude-skills.git",
+    "license": "MIT",
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "tags": [
+      "搜索",
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "headroom",
+    "name": "headroom",
+    "benefit": "让AI通过MCP协议连接各种工具和服务",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "category": "AI调教",
+    "score": 5.9,
+    "stars": 17192,
+    "downloads": 28162,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/chopratejas/headroom.git",
+    "license": "Apache-2.0",
+    "url": "https://github.com/chopratejas/headroom",
+    "tags": [
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "ai-guide",
+    "name": "ai-guide",
+    "benefit": "让AI管理你的笔记和知识库，查找资料不用自己翻",
+    "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前",
+    "category": "办公必备",
+    "score": 5.8,
+    "stars": 15313,
+    "downloads": 32563,
+    "updated": "2026-06-08",
+    "install": "npx skills add ai-guide",
+    "license": "N/A",
+    "url": "https://github.com/liyupi/ai-guide",
+    "tags": [
+      "编程",
+      "教程",
+      "ChatGPT",
+      "Claude",
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex",
+      "openclaw",
+      "mcp",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "notebooklm-py",
+    "name": "notebooklm-py",
+    "benefit": "让AI管理你的笔记和知识库，查找资料不用自己翻",
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+    "category": "办公必备",
+    "score": 5.8,
+    "stars": 16084,
+    "downloads": 37964,
+    "updated": "2026-06-08",
+    "install": "npx skills add notebooklm-py",
+    "license": "MIT",
+    "url": "https://github.com/teng-lin/notebooklm-py",
+    "tags": [
+      "笔记",
+      "搜索",
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex",
+      "openclaw",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "mcp-toolbox",
+    "name": "mcp-toolbox",
+    "benefit": "让AI处理数据生成图表，一目了然",
+    "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+    "category": "数据分析",
+    "score": 5.8,
+    "stars": 15503,
+    "downloads": 31413,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/googleapis/mcp-toolbox.git",
+    "license": "Apache-2.0",
+    "url": "https://github.com/googleapis/mcp-toolbox",
+    "tags": [
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "mcp",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "figma-context-mcp",
+    "name": "Figma-Context-MCP",
+    "benefit": "让AI通过MCP协议连接各种工具和服务",
+    "description": "MCP server to provide Figma layout information to AI coding agents like Cursor",
+    "category": "网站设计",
+    "score": 5.8,
+    "stars": 15018,
+    "downloads": 26908,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/GLips/Figma-Context-MCP.git",
+    "license": "MIT",
+    "url": "https://github.com/GLips/Figma-Context-MCP",
+    "tags": [
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "anthropic-cybersecurity-skills",
+    "name": "Anthropic-Cybersecurity-Skills",
+    "benefit": "让AI帮你检查安全漏洞，保护代码和数据安全",
+    "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+    "category": "办公必备",
+    "score": 5.7,
+    "stars": 14801,
+    "downloads": 32151,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git",
+    "license": "Apache-2.0",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "tags": [
+      "安全",
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "casdoor",
+    "name": "casdoor",
+    "benefit": "让AI自己上网查资料，比手动搜索快得多",
+    "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
+    "category": "办公必备",
+    "score": 5.7,
+    "stars": 13745,
+    "downloads": 30815,
+    "updated": "2026-06-07",
+    "install": "npx skills add casdoor",
+    "license": "Apache-2.0",
+    "url": "https://github.com/casdoor/casdoor",
+    "tags": [
+      "搜索",
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "openclaw",
+      "mcp",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "auto-claude-code-research-in-sleep",
+    "name": "Auto-claude-code-research-in-sleep",
+    "benefit": "让AI自己上网查资料，比手动搜索快得多",
+    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+    "category": "自媒体人",
+    "score": 5.6,
+    "stars": 11610,
+    "downloads": 22320,
+    "updated": "2026-06-08",
+    "install": "npx skills add auto-claude-code-research-in-sleep",
+    "license": "MIT",
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "tags": [
+      "搜索",
+      "编程",
+      "自动化",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex",
+      "openclaw"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "memos",
+    "name": "MemOS",
+    "benefit": "让AI记住你的所有信息，告别每次都要重新介绍的烦恼",
+    "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
+    "category": "AI调教",
+    "score": 5.5,
+    "stars": 9658,
+    "downloads": 18428,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/MemTensor/MemOS.git",
+    "license": "Apache-2.0",
+    "url": "https://github.com/MemTensor/MemOS",
+    "tags": [
+      "记忆"
+    ],
+    "source": "github",
+    "platforms": [
+      "all"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "deeplake",
+    "name": "deeplake",
+    "benefit": "让AI处理数据生成图表，一目了然",
+    "description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+    "category": "AI调教",
+    "score": 5.5,
+    "stars": 9160,
+    "downloads": 16260,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/activeloopai/deeplake.git",
+    "license": "Apache-2.0",
+    "url": "https://github.com/activeloopai/deeplake",
+    "tags": [
+      "AI调教"
+    ],
+    "source": "github",
+    "platforms": [
+      "all"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "mcp-use",
+    "name": "mcp-use",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
+    "category": "网站设计",
+    "score": 5.5,
+    "stars": 10068,
+    "downloads": 23258,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/mcp-use/mcp-use.git",
+    "license": "MIT",
+    "url": "https://github.com/mcp-use/mcp-use",
+    "tags": [
+      "编程",
+      "ChatGPT",
+      "Claude",
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "hexstrike-ai",
+    "name": "hexstrike-ai",
+    "benefit": "让AI自己上网查资料，比手动搜索快得多",
+    "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capa",
+    "category": "学习必备",
+    "score": 5.5,
+    "stars": 9418,
+    "downloads": 29738,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/0x4m4/hexstrike-ai.git",
+    "license": "MIT",
+    "url": "https://github.com/0x4m4/hexstrike-ai",
+    "tags": [
+      "搜索",
+      "安全",
+      "自动化",
+      "ChatGPT",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "clawhub",
+    "name": "clawhub",
+    "benefit": "装了这个Skill，你的AI就能用上clawhub",
+    "description": "Skill + Plugin Registry for OpenClaw",
+    "category": "其他",
+    "score": 5.4,
+    "stars": 8897,
+    "downloads": 22777,
+    "updated": "2026-06-08",
+    "install": "npx skills add clawhub",
+    "license": "MIT",
+    "url": "https://github.com/openclaw/clawhub",
+    "tags": [
+      "其他"
+    ],
+    "source": "github",
+    "platforms": [
+      "openclaw"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "codepilot",
+    "name": "CodePilot",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.",
+    "category": "网站设计",
+    "score": 5.3,
+    "stars": 5957,
+    "downloads": 12377,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/op7418/CodePilot.git",
+    "license": "NOASSERTION",
+    "url": "https://github.com/op7418/CodePilot",
+    "tags": [
+      "编程",
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "stitch-skills",
+    "name": "stitch-skills",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "category": "其他",
+    "score": 5.3,
+    "stars": 5946,
+    "downloads": 13186,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/google-labs-code/stitch-skills.git",
+    "license": "Apache-2.0",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "tags": [
+      "编程",
+      "Claude",
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "mcp",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "desktopcommandermcp",
+    "name": "DesktopCommanderMCP",
+    "benefit": "让AI自己上网查资料，比手动搜索快得多",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "category": "其他",
+    "score": 5.3,
+    "stars": 6126,
+    "downloads": 13376,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/wonderwhy-er/DesktopCommanderMCP.git",
+    "license": "MIT",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "tags": [
+      "搜索",
+      "Claude",
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "xcodebuildmcp",
+    "name": "XcodeBuildMCP",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
+    "category": "电商带货",
+    "score": 5.3,
+    "stars": 5860,
+    "downloads": 8770,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/getsentry/XcodeBuildMCP.git",
+    "license": "MIT",
+    "url": "https://github.com/getsentry/XcodeBuildMCP",
+    "tags": [
+      "编程",
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "mobile-mcp",
+    "name": "mobile-mcp",
+    "benefit": "让AI通过MCP协议连接各种工具和服务",
+    "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+    "category": "其他",
+    "score": 5.3,
+    "stars": 5137,
+    "downloads": 9627,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/mobile-next/mobile-mcp.git",
+    "license": "Apache-2.0",
+    "url": "https://github.com/mobile-next/mobile-mcp",
+    "tags": [
+      "自动化",
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "autoresearch",
+    "name": "autoresearch",
+    "benefit": "让AI自己上网查资料，比手动搜索快得多",
+    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+    "category": "办公必备",
+    "score": 5.2,
+    "stars": 4845,
+    "downloads": 8515,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/uditgoenka/autoresearch.git",
+    "license": "MIT",
+    "url": "https://github.com/uditgoenka/autoresearch",
+    "tags": [
+      "搜索",
+      "编程",
+      "自动化",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "superpowers-zh",
+    "name": "superpowers-zh",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
+    "category": "AI调教",
+    "score": 5.2,
+    "stars": 4895,
+    "downloads": 9605,
+    "updated": "2026-06-08",
+    "install": "npx skills add superpowers-zh",
+    "license": "MIT",
+    "url": "https://github.com/jnMetaCode/superpowers-zh",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "hermes",
+      "claude",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "claude-code-guide",
+    "name": "claude-code-guide",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!",
+    "category": "学习必备",
+    "score": 5.2,
+    "stars": 4240,
+    "downloads": 8510,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/zebbern/claude-code-guide.git",
+    "license": "MIT",
+    "url": "https://github.com/zebbern/claude-code-guide",
+    "tags": [
+      "编程",
+      "教程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "generative-media-skills",
+    "name": "Generative-Media-Skills",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.",
+    "category": "自媒体人",
+    "score": 5.2,
+    "stars": 3450,
+    "downloads": 7370,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/SamurAIGPT/Generative-Media-Skills.git",
+    "license": "MIT",
+    "url": "https://github.com/SamurAIGPT/Generative-Media-Skills",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "unity-mcp",
+    "name": "Unity-MCP",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free.",
+    "category": "其他",
+    "score": 5.2,
+    "stars": 3066,
+    "downloads": 5956,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/IvanMurzak/Unity-MCP.git",
+    "license": "Apache-2.0",
+    "url": "https://github.com/IvanMurzak/Unity-MCP",
+    "tags": [
+      "编程",
+      "Claude",
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "mcp",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "buildwithclaude",
+    "name": "buildwithclaude",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw",
+    "category": "其他",
+    "score": 5.2,
+    "stars": 3035,
+    "downloads": 6775,
+    "updated": "2026-06-08",
+    "install": "npx skills add buildwithclaude",
+    "license": "MIT",
+    "url": "https://github.com/davepoon/buildwithclaude",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "openclaw"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "sandbox",
+    "name": "sandbox",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.",
+    "category": "其他",
+    "score": 5.2,
+    "stars": 4921,
+    "downloads": 9211,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/agent-infra/sandbox.git",
+    "license": "Apache-2.0",
+    "url": "https://github.com/agent-infra/sandbox",
+    "tags": [
+      "编程",
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "aci",
+    "name": "aci",
+    "benefit": "一句话生成整套系统，让AI帮你完成重复工作",
+    "description": "ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.",
+    "category": "其他",
+    "score": 5.2,
+    "stars": 4798,
+    "downloads": 9438,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/aipotheosis-labs/aci.git",
+    "license": "Apache-2.0",
+    "url": "https://github.com/aipotheosis-labs/aci",
+    "tags": [
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "peekaboo",
+    "name": "Peekaboo",
+    "benefit": "让AI通过MCP协议连接各种工具和服务",
+    "description": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
+    "category": "其他",
+    "score": 5.2,
+    "stars": 4663,
+    "downloads": 8193,
+    "updated": "2026-06-08",
+    "install": "npx skills add peekaboo",
+    "license": "MIT",
+    "url": "https://github.com/openclaw/Peekaboo",
+    "tags": [
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "openclaw",
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "rocketride-server",
+    "name": "rocketride-server",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.",
+    "category": "学习必备",
+    "score": 5.2,
+    "stars": 3790,
+    "downloads": 16120,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/rocketride-org/rocketride-server.git",
+    "license": "MIT",
+    "url": "https://github.com/rocketride-org/rocketride-server",
+    "tags": [
+      "编程"
+    ],
+    "source": "github",
+    "platforms": [
+      "all"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "agentgateway",
+    "name": "agentgateway",
+    "benefit": "让AI通过MCP协议连接各种工具和服务",
+    "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
+    "category": "其他",
+    "score": 5.2,
+    "stars": 3133,
+    "downloads": 8343,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/agentgateway/agentgateway.git",
+    "license": "Apache-2.0",
+    "url": "https://github.com/agentgateway/agentgateway",
+    "tags": [
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "anysearch-skill",
+    "name": "anysearch-skill",
+    "benefit": "让AI自己上网查资料，比手动搜索快得多",
+    "description": "Unified real-time search engine skill for AI agents. ",
+    "category": "其他",
+    "score": 5.1,
+    "stars": 2707,
+    "downloads": 4647,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/anysearch-ai/anysearch-skill.git",
+    "license": "N/A",
+    "url": "https://github.com/anysearch-ai/anysearch-skill",
+    "tags": [
+      "搜索"
+    ],
+    "source": "github",
+    "platforms": [
+      "all"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "avoid-ai-writing",
+    "name": "avoid-ai-writing",
+    "benefit": "让AI帮你检查安全漏洞，保护代码和数据安全",
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.",
+    "category": "AI调教",
+    "score": 5.1,
+    "stars": 1731,
+    "downloads": 3461,
+    "updated": "2026-06-08",
+    "install": "npx skills add avoid-ai-writing",
+    "license": "MIT",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing",
+    "tags": [
+      "安全",
+      "写作",
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "hermes",
+      "claude",
+      "openclaw"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "claude-to-im-skill",
+    "name": "Claude-to-IM-skill",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
+    "category": "其他",
+    "score": 5.1,
+    "stars": 2679,
+    "downloads": 5709,
+    "updated": "2026-06-07",
+    "install": "git clone https://github.com/op7418/Claude-to-IM-skill.git",
+    "license": "MIT",
+    "url": "https://github.com/op7418/Claude-to-IM-skill",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "clawgod",
+    "name": "clawgod",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect",
+    "category": "其他",
+    "score": 5.1,
+    "stars": 1299,
+    "downloads": 3669,
+    "updated": "2026-06-08",
+    "install": "npx skills add clawgod",
+    "license": "GPL-3.0",
+    "url": "https://github.com/0Chencc/clawgod",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "openclaw"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "comfyui-skills-openclaw",
+    "name": "ComfyUI_Skills_OpenClaw",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "Agent-friendly ComfyUI workflow skills for OpenClaw, Hermes Agent, Codex, and Claude Code. Turn any ComfyUI workflow into a callable AI agent skill via CLI.",
+    "category": "图片生成",
+    "score": 5.0,
+    "stars": 313,
+    "downloads": 633,
+    "updated": "2026-06-07",
+    "install": "npx skills add comfyui-skills-openclaw",
+    "license": "MIT",
+    "url": "https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "hermes",
+      "claude",
+      "codex",
+      "openclaw"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "lycheemem",
+    "name": "LycheeMem",
+    "benefit": "让AI记住你的所有信息，告别每次都要重新介绍的烦恼",
+    "description": "Lightweight Long-Term Memory for LLM Agents.",
+    "category": "AI调教",
+    "score": 5.0,
+    "stars": 238,
+    "downloads": 328,
+    "updated": "2026-06-03",
+    "install": "git clone https://github.com/LycheeMem/LycheeMem.git",
+    "license": "Apache-2.0",
+    "url": "https://github.com/LycheeMem/LycheeMem",
+    "tags": [
+      "记忆"
+    ],
+    "source": "github",
+    "platforms": [
+      "all"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "computer-use-linux",
+    "name": "computer-use-linux",
+    "benefit": "在浏览器/桌面端管理AI，一切尽在掌握",
+    "description": "Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool",
+    "category": "其他",
+    "score": 5.0,
+    "stars": 151,
+    "downloads": 291,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/agent-sh/computer-use-linux.git",
+    "license": "MIT",
+    "url": "https://github.com/agent-sh/computer-use-linux",
+    "tags": [
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "kali-pentest",
+    "name": "kali-pentest",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "Kali Linux penetration testing skill for AI agents (Claude Code, OpenClaw, Hermes Agent). 200+ CLI tools, 15 scenario playbooks. Autonomously plans attack paths, selects tools, and integrates results across phases to adapt the penetration strategy — with human approval gates for high-risk actions.",
+    "category": "办公必备",
+    "score": 5.0,
+    "stars": 48,
+    "downloads": 128,
+    "updated": "2026-06-07",
+    "install": "npx skills add kali-pentest",
+    "license": "Apache-2.0",
+    "url": "https://github.com/x-glacier/kali-pentest",
+    "tags": [
+      "编程",
+      "自动化",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "hermes",
+      "claude",
+      "openclaw"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "mathskill",
+    "name": "Math.Skill",
+    "benefit": "让AI自己上网查资料，比手动搜索快得多",
+    "description": "A comprehensive mathematical reasoning skill for AI assistants — arithmetic to research-level problems with rigorous verification.",
+    "category": "AI调教",
+    "score": 5.0,
+    "stars": 22,
+    "downloads": 42,
+    "updated": "2026-06-06",
+    "install": "git clone https://github.com/Wholiver/Math.Skill.git",
+    "license": "MIT",
+    "url": "https://github.com/Wholiver/Math.Skill",
+    "tags": [
+      "搜索"
+    ],
+    "source": "github",
+    "platforms": [
+      "all"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "web-search-plus",
+    "name": "web-search-plus",
+    "benefit": "让AI自己上网查资料，比手动搜索快得多",
+    "description": "Flagship multi-provider search and extraction stack for OpenClaw, Hermes Agent, MCP clients, and native plugins.",
+    "category": "其他",
+    "score": 5.0,
+    "stars": 21,
+    "downloads": 51,
+    "updated": "2026-05-25",
+    "install": "npx skills add web-search-plus",
+    "license": "MIT",
+    "url": "https://github.com/robbyczgw-cla/web-search-plus",
+    "tags": [
+      "搜索",
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "hermes",
+      "openclaw",
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "tutor-skills",
+    "name": "tutor-skills",
+    "benefit": "让AI管理你的笔记和知识库，查找资料不用自己翻",
+    "description": "A Claude Code skill that turns PDFs, docs, and codebases into Obsidian study vaults",
+    "category": "办公必备",
+    "score": 5.0,
+    "stars": 933,
+    "downloads": 1743,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/bevibing/tutor-skills.git",
+    "license": "MIT",
+    "url": "https://github.com/bevibing/tutor-skills",
+    "tags": [
+      "笔记",
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "skillcolor-expert",
+    "name": "skill.color-expert",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "Agent skill for color science expertise. Many references covering color spaces, accessibility (APCA, WCAG), palette   generation, pigment mixing, and historical color theory. Works with Claude Code, Codex, Cursor, Copilot & others.",
+    "category": "其他",
+    "score": 5.0,
+    "stars": 483,
+    "downloads": 803,
+    "updated": "2026-06-07",
+    "install": "git clone https://github.com/meodai/skill.color-expert.git",
+    "license": "NOASSERTION",
+    "url": "https://github.com/meodai/skill.color-expert",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "yupi-skill",
+    "name": "yupi-skill",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
+    "category": "AI调教",
+    "score": 5.0,
+    "stars": 316,
+    "downloads": 826,
+    "updated": "2026-06-08",
+    "install": "npx skills add yupi-skill",
+    "license": "MIT",
+    "url": "https://github.com/liyupi/yupi-skill",
+    "tags": [
+      "编程",
+      "教程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "openclaw"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "skill-based-architecture",
+    "name": "skill-based-architecture",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "A meta-skill that produces skills. Point it at any codebase and it distills the project's rules, workflows, and hard-won lessons into a dedicated skills/<name>/ directory — a project skill that becomes the single source of truth every AI agent (Cursor, Claude Code, Codex, Windsurf, Gemini) consults ",
+    "category": "其他",
+    "score": 5.0,
+    "stars": 291,
+    "downloads": 591,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/WoJiSama/skill-based-architecture.git",
+    "license": "MIT",
+    "url": "https://github.com/WoJiSama/skill-based-architecture",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "skill-flow",
+    "name": "skill-flow",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "Install, manage, and share skills across every major coding agent — Claude Code, Cursor, Copilot, and more.",
+    "category": "其他",
+    "score": 5.0,
+    "stars": 235,
+    "downloads": 375,
+    "updated": "2026-06-07",
+    "install": "git clone https://github.com/VintLin/skill-flow.git",
+    "license": "Apache-2.0",
+    "url": "https://github.com/VintLin/skill-flow",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "app-it",
+    "name": "app-it",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "A Claude Code + Codex skill that turns a local project into a macOS Dock-launchable app — native window, its own icon, no Electron. [The Windows version is in BETA]",
+    "category": "网站设计",
+    "score": 5.0,
+    "stars": 193,
+    "downloads": 383,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/Christian-Katzmann/app-it.git",
+    "license": "MIT",
+    "url": "https://github.com/Christian-Katzmann/app-it",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "opc",
+    "name": "opc",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "OPC — One Person Company. A full team in a single Claude Code skill. Adaptive agent orchestrator with 11 built-in roles, 4 modes, and adversarial quality control.",
+    "category": "办公必备",
+    "score": 5.0,
+    "stars": 167,
+    "downloads": 557,
+    "updated": "2026-06-07",
+    "install": "git clone https://github.com/iamtouchskyer/opc.git",
+    "license": "MIT",
+    "url": "https://github.com/iamtouchskyer/opc",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "visualize",
+    "name": "visualize",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "Turn any idea into a beautiful HTML visualization — with one prompt. A Claude Code skill.",
+    "category": "AI调教",
+    "score": 5.0,
+    "stars": 154,
+    "downloads": 464,
+    "updated": "2026-06-05",
+    "install": "git clone https://github.com/careerhackeralex/visualize.git",
+    "license": "MIT",
+    "url": "https://github.com/careerhackeralex/visualize",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "no-no-debug",
+    "name": "no-no-debug",
+    "benefit": "让AI记住你的所有信息，告别每次都要重新介绍的烦恼",
+    "description": "No-No Debug — Self-evolution system for AI coding assistants. 10 minutes writing code, 2 hours debugging? This skill makes your AI remember all its bugs.",
+    "category": "AI调教",
+    "score": 5.0,
+    "stars": 152,
+    "downloads": 212,
+    "updated": "2026-06-07",
+    "install": "git clone https://github.com/summerliuuu/no-no-debug.git",
+    "license": "MIT",
+    "url": "https://github.com/summerliuuu/no-no-debug",
+    "tags": [
+      "记忆",
+      "写作",
+      "编程"
+    ],
+    "source": "github",
+    "platforms": [
+      "all"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "user-research-skill",
+    "name": "user-research-skill",
+    "benefit": "让AI自己上网查资料，比手动搜索快得多",
+    "description": "Cookiy AI Skill for AI agents (Claude, Codex, Cursor, OpenClaw) — end-to-end user research: AI interviews, synthetic users, quant surveys, participant recruitment.",
+    "category": "学习必备",
+    "score": 5.0,
+    "stars": 371,
+    "downloads": 641,
+    "updated": "2026-06-08",
+    "install": "npx skills add user-research-skill",
+    "license": "MIT",
+    "url": "https://github.com/cookiy-ai/user-research-skill",
+    "tags": [
+      "搜索",
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex",
+      "openclaw"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "presentation-skills",
+    "name": "presentation-skills",
+    "benefit": "让AI自己上网查资料，比手动搜索快得多",
+    "description": "面向 Codex CLI 的演示工作流 skills 集合，包括商业级可编辑 PPT 协作与网页 demo 配音视频合成等可复盘、可复用流程。A Codex CLI skill collection for reusable presentation workflows, covering editable PPT diagram collaboration and end-to-end web demo video synthesis.",
+    "category": "办公必备",
+    "score": 5.0,
+    "stars": 146,
+    "downloads": 276,
+    "updated": "2026-06-07",
+    "install": "git clone https://github.com/Sven-LI-sankyuu/presentation-skills.git",
+    "license": "N/A",
+    "url": "https://github.com/Sven-LI-sankyuu/presentation-skills",
+    "tags": [
+      "搜索",
+      "编程"
+    ],
+    "source": "github",
+    "platforms": [
+      "codex"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "anti-ai-slop-writing",
+    "name": "anti-ai-slop-writing",
+    "benefit": "让AI帮你写文章和内容，再也不怕写东西",
+    "description": "AI writing skill that eliminates detectable AI patterns. Works with Claude Code, Codex, Cursor, Gemini CLI, and 8+ other agents.",
+    "category": "AI调教",
+    "score": 5.0,
+    "stars": 141,
+    "downloads": 411,
+    "updated": "2026-06-07",
+    "install": "git clone https://github.com/jalaalrd/anti-ai-slop-writing.git",
+    "license": "N/A",
+    "url": "https://github.com/jalaalrd/anti-ai-slop-writing",
+    "tags": [
+      "写作",
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "harmonyos-ai-skill",
+    "name": "harmonyos-ai-skill",
+    "benefit": "让AI管理你的笔记和知识库，查找资料不用自己翻",
+    "description": "鸿蒙(HarmonyOS NEXT)开发知识包,一份源文件自动产出 Claude Code / Cursor / Copilot / Codex / Gemini CLI / Windsurf / ChatGPT 等 11+ AI 工具的配置文件,让 AI 像熟读华为文档的工程师一样帮你写 ArkTS / ArkUI。",
+    "category": "办公必备",
+    "score": 5.0,
+    "stars": 101,
+    "downloads": 181,
+    "updated": "2026-06-08",
+    "install": "git clone https://github.com/DengShiyingA/harmonyos-ai-skill.git",
+    "license": "MIT",
+    "url": "https://github.com/DengShiyingA/harmonyos-ai-skill",
+    "tags": [
+      "编程",
+      "自动化",
+      "ChatGPT",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "apple-health-analyst",
+    "name": "apple-health-analyst",
+    "benefit": "让AI帮你编写代码，提升开发效率",
+    "description": "Privacy-first Apple Health analyzer — cross-metric insights, behavioral patterns, and health reports. Agent skill for Claude Code, Codex & Cursor.",
+    "category": "AI调教",
+    "score": 5.0,
+    "stars": 52,
+    "downloads": 82,
+    "updated": "2026-05-19",
+    "install": "git clone https://github.com/RuochenLyu/apple-health-analyst.git",
+    "license": "MIT",
+    "url": "https://github.com/RuochenLyu/apple-health-analyst",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "claude-code-marketplace",
+    "name": "claude-code-marketplace",
+    "benefit": "让AI自己上网查资料，比手动搜索快得多",
+    "description": "Curated Agent Skills collection for AI-assisted development. Open standard — agentskills.io. Portable across Claude Code, Cursor, Copilot, Codex, Gemini CLI, and 30+ more agents. By Netresearch.",
+    "category": "AI调教",
+    "score": 5.0,
+    "stars": 42,
+    "downloads": 142,
+    "updated": "2026-06-07",
+    "install": "git clone https://github.com/netresearch/claude-code-marketplace.git",
+    "license": "MIT",
+    "url": "https://github.com/netresearch/claude-code-marketplace",
+    "tags": [
+      "搜索",
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "full-stack-audit",
+    "name": "full-stack-audit",
+    "benefit": "让AI自己上网查资料，比手动搜索快得多",
+    "description": "90-point full-stack audit skill for websites and web apps. Catches security holes, UX gaps, and compliance issues that AI-generated code gets wrong. Works with Claude Code, Cursor, Codex, Gemini CLI.",
+    "category": "网站设计",
+    "score": 5.0,
+    "stars": 33,
+    "downloads": 103,
+    "updated": "2026-05-31",
+    "install": "git clone https://github.com/jalaalrd/full-stack-audit.git",
+    "license": "N/A",
+    "url": "https://github.com/jalaalrd/full-stack-audit",
+    "tags": [
+      "搜索",
+      "安全",
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "vibe-testing",
+    "name": "vibe-testing",
+    "benefit": "让AI帮你写文章和内容，再也不怕写东西",
+    "description": "Pressure-test your specs with LLM reasoning before writing code. Agent skill for Claude Code, Codex, Gemini CLI, and 14+ coding agents.",
+    "category": "AI调教",
+    "score": 5.0,
+    "stars": 21,
+    "downloads": 41,
+    "updated": "2026-05-18",
+    "install": "git clone https://github.com/knot0-com/vibe-testing.git",
+    "license": "MIT",
+    "url": "https://github.com/knot0-com/vibe-testing",
+    "tags": [
+      "写作",
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "ansari-skill",
+    "name": "ansari-skill",
+    "benefit": "让AI管理你的笔记和知识库，查找资料不用自己翻",
+    "description": "Islamic Knowledge Agent Skill — answers questions about Islam using authentic sources. Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, and Gemini CLI.",
+    "category": "AI调教",
+    "score": 5.0,
+    "stars": 18,
+    "downloads": 28,
+    "updated": "2026-05-04",
+    "install": "git clone https://github.com/ansari-project/ansari-skill.git",
+    "license": "MIT",
+    "url": "https://github.com/ansari-project/ansari-skill",
+    "tags": [
+      "笔记",
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex",
+      "gemini"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "codex-sessions-manager",
+    "name": "codex-sessions-manager",
+    "benefit": "让AI帮你检查安全漏洞，保护代码和数据安全",
+    "description": "CLI, MCP server, and Skill for safe local Codex session audit, cleanup, restore, and verification.",
+    "category": "其他",
+    "score": 5.0,
+    "stars": 12,
+    "downloads": 12,
+    "updated": "2026-06-06",
+    "install": "git clone https://github.com/1939869736luosi/codex-sessions-manager.git",
+    "license": "Apache-2.0",
+    "url": "https://github.com/1939869736luosi/codex-sessions-manager",
+    "tags": [
+      "安全",
+      "编程",
+      "MCP"
+    ],
+    "source": "github",
+    "platforms": [
+      "codex",
+      "mcp"
+    ],
+    "created_at": "2026-06-08"
+  },
+  {
+    "id": "selftune",
+    "name": "selftune",
+    "benefit": "让AI学会自我优化，越用越聪明",
+    "description": "Skill observability & self-improving toolkit for agent skills.",
+    "category": "其他",
+    "score": 5.0,
+    "stars": 12,
+    "downloads": 32,
+    "updated": "2026-05-25",
+    "install": "git clone https://github.com/selftune-dev/selftune.git",
+    "license": "MIT",
+    "url": "https://github.com/selftune-dev/selftune",
+    "tags": [
+      "其他"
+    ],
+    "source": "github",
+    "platforms": [
+      "all"
+    ],
+    "created_at": "2026-06-08"
+  }
+]
