@@ -1,15 +1,14 @@
-name: 自动抓取 + 部署
+name: 自动抓取 + 评分 + 部署
 on:
   schedule:
-    - cron: '0 */6 * * *'  # 每6小时
-  workflow_dispatch:       # 手动触发
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -17,12 +16,22 @@ jobs:
       - name: 抓取 GitHub Skill 数据
         run: python scripts/fetch-github.py
 
+      - name: 抓取补充数据（skills.sh）
+        run: python scripts/fetch-extra.py
+
+      - name: 优化分类
+        run: python scripts/optimize-categories.py
+
+      - name: 跨平台评分归一化
+        run: python scripts/normalize-scores.py
+
       - name: 提交更新
         run: |
           git config user.name "gebidaxiongdi"
           git config user.email "gebidaxiongdi@users.noreply.github.com"
           git add src/data/skills.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "🔄 自动更新 Skill 数据 $(date +'%Y-%m-%d %H:%M')"
+          git diff --quiet && git diff --staged --quiet || \
+            git commit -m "🔄 自动更新 $(date +'%Y-%m-%d %H:%M')"
           git push
 
       - name: 部署到 Vercel
