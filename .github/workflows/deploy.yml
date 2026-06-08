@@ -21,6 +21,9 @@ jobs:
       - name: 抓取补充数据（skills.sh）
         run: python scripts/fetch-extra.py
 
+      - name: 修复分类（旧→新6分类）
+        run: python scripts/fix-categories.py
+
       - name: 提交更新
         run: |
           git config user.name "gebidaxiongdi"
