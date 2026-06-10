@@ -1508,6 +1508,28 @@
     "created_at": "2026-06-08"
   },
   {
+    "id": "clawx",
+    "name": "ClawX",
+    "benefit": "在桌面端管理所有AI模型和Skill，还能手机远程控制",
+    "description": "ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://clawx.com.cn.",
+    "category": "编码辅助",
+    "score": 5.9,
+    "stars": 7403,
+    "downloads": 18463,
+    "updated": "2026-06-10",
+    "install": "npx skills add clawx",
+    "license": "MIT",
+    "url": "https://github.com/ValueCell-ai/ClawX",
+    "tags": [
+      "移动端"
+    ],
+    "source": "github",
+    "platforms": [
+      "openclaw"
+    ],
+    "created_at": "2026-06-10"
+  },
+  {
     "id": "building-components",
     "name": "building-components",
     "benefit": "做前端页面时AI给你最佳实践指导，设计更专业",
