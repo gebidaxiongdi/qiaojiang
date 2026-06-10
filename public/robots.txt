@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://qiaojiang.vercel.app/sitemap.xml

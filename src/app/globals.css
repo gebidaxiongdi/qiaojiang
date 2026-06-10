@@ -1,8 +1,8 @@
-@tailwind base;
+﻿@tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* ====== 深色主题（默认） ====== */
+/* Dark theme (default) */
 [data-theme="dark"], :root {
   --bg-primary: #0a0a0f;
   --bg-secondary: #13131a;
@@ -16,15 +16,12 @@
   --accent: #8b5cf6;
   --accent-light: #a78bfa;
   --accent-glow: rgba(139, 92, 246, 0.15);
-  --rating-high: #22c55e;
-  --rating-mid: #eab308;
-  --rating-low: #ef4444;
   --shadow: 0 4px 20px rgba(0,0,0,0.3);
   --gradient-hero: linear-gradient(135deg, #1a1a2e 0%, #0a0a1a 50%, #16213e 100%);
   --gradient-card: linear-gradient(180deg, #1a1a26 0%, #16161f 100%);
 }
 
-/* ====== 浅色主题 ====== */
+/* Light theme */
 [data-theme="light"] {
   --bg-primary: #f8f8fc;
   --bg-secondary: #ffffff;
@@ -38,48 +35,51 @@
   --accent: #7c3aed;
   --accent-light: #8b5cf6;
   --accent-glow: rgba(124, 58, 237, 0.1);
-  --rating-high: #16a34a;
-  --rating-mid: #ca8a04;
-  --rating-low: #dc2626;
   --shadow: 0 4px 20px rgba(0,0,0,0.06);
   --gradient-hero: linear-gradient(135deg, #f0e6ff 0%, #f8f8fc 50%, #e0f0ff 100%);
   --gradient-card: linear-gradient(180deg, #ffffff 0%, #f8f8fc 100%);
 }
 
-/* ====== 全局样式 ====== */
+/* Global reset */
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
 body {
-  font-family: 'Noto Sans SC', sans-serif;
+  font-family: "Noto Sans SC", sans-serif;
   background: var(--bg-primary);
   color: var(--text-primary);
-  transition: all 0.3s ease;
+  transition: background 0.3s ease, color 0.3s ease;
   -webkit-font-smoothing: antialiased;
 }
 
-/* 颜色方案 */
 [data-theme="dark"] { color-scheme: dark; }
 [data-theme="light"] { color-scheme: light; }
 
-/* 滚动条 */
+/* Scrollbar */
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: var(--text-muted); border-radius: 3px; }
 
-/* Hero 浮动动画 */
+/* Hero float animation */
 @keyframes qjFloat {
   0%, 100% { transform: translate(0, 0) rotate(0deg); }
   33% { transform: translate(30px, -30px) rotate(1deg); }
   66% { transform: translate(-20px, 20px) rotate(-1deg); }
 }
 
-/* 卡片顶部装饰条动画 */
+/* Card top bar animation */
 @keyframes qjSlideIn {
   from { transform: scaleX(0); }
   to { transform: scaleX(1); }
 }
 
-/* 标签通用样式 */
+/* Skeleton shimmer animation */
+@keyframes shimmer {
+  0% { opacity: 0.3; }
+  50% { opacity: 0.6; }
+  100% { opacity: 0.3; }
+}
+
+/* Tag style */
 .tag {
   display: inline-flex;
   align-items: center;
@@ -94,10 +94,9 @@ body {
   transition: all 0.2s ease;
 }
 
-/* 搜索框占位符 */
 .search-box::placeholder { color: var(--text-muted); }
 
-/* 响应式调整 */
+/* Responsive */
 @media (max-width: 640px) {
   .hero-title { font-size: 28px !important; }
 }

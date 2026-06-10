@@ -1,0 +1,1043 @@
+{
+  "find-skills": {
+    "description": "find-skills —— 让AI快速搜索和查找信息，找东西不用自己翻"
+  },
+  "frontend-design": {
+    "description": "frontend-design —— 做前端页面时AI给你最佳实践指导，设计更专业"
+  },
+  "azure-ai": {
+    "description": "azure-ai —— 部署上云时AI帮你配置和优化，省去繁琐步骤"
+  },
+  "web-design-guidelines": {
+    "description": "web-design-guidelines —— 做前端页面时AI给你最佳实践指导，设计更专业"
+  },
+  "remotion-best-practices": {
+    "description": "remotion-best-practices —— 做视频时AI帮你生成特效和动画，剪辑效率翻倍"
+  },
+  "improve-codebase-architecture": {
+    "description": "improve-codebase-architecture —— 写代码时AI实时辅助，提升开发效率减少bug"
+  },
+  "supabase-postgres-best-practices": {
+    "description": "supabase-postgres-best-practices —— 让AI掌握supabase-postgres-best-practices技能，帮你处理相关任务"
+  },
+  "ecc": {
+    "description": "ECC —— 让AI记住你的所有信息，告别每次都要重新介绍的烦恼"
+  },
+  "brainstorming": {
+    "description": "brainstorming —— 让AI拥有长期记忆，每次对话都知道你的偏好"
+  },
+  "lark-mail": {
+    "description": "lark-mail —— 处理邮件和信息时AI帮你起草回复，沟通更高效"
+  },
+  "ui-ux-pro-max": {
+    "description": "ui-ux-pro-max —— 做前端页面时AI给你最佳实践指导，设计更专业"
+  },
+  "lark-approval": {
+    "description": "lark-approval —— 让AI掌握lark-approval技能，帮你处理相关任务"
+  },
+  "sleek-design-mobile-apps": {
+    "description": "sleek-design-mobile-apps —— 做前端页面时AI给你最佳实践指导，设计更专业"
+  },
+  "develop-userscripts": {
+    "description": "develop-userscripts —— 写代码时AI实时辅助，提升开发效率减少bug"
+  },
+  "ai-video-generation": {
+    "description": "ai-video-generation —— 做视频时AI帮你生成特效和动画，剪辑效率翻倍"
+  },
+  "paper-context-resolver": {
+    "description": "paper-context-resolver —— 让AI掌握paper-context-resolver技能，帮你处理相关任务"
+  },
+  "caveman-commit": {
+    "description": "caveman-commit —— 用Git时AI帮你写提交信息和代码审查"
+  },
+  "just-scrape": {
+    "description": "just-scrape —— 让AI掌握just-scrape技能，帮你处理相关任务"
+  },
+  "design-taste-frontend": {
+    "description": "design-taste-frontend —— 做前端页面时AI给你最佳实践指导，设计更专业"
+  },
+  "ai-avatar-video": {
+    "description": "ai-avatar-video —— 做视频时AI帮你生成特效和动画，剪辑效率翻倍"
+  },
+  "website-to-hyperframes": {
+    "description": "website-to-hyperframes —— 做前端页面时AI给你最佳实践指导，设计更专业"
+  },
+  "firebase-basics": {
+    "description": "firebase-basics —— 让AI掌握firebase-basics技能，帮你处理相关任务"
+  },
+  "caveman": {
+    "description": "caveman —— 让AI帮你编写代码，提升开发效率"
+  },
+  "ai-seo": {
+    "description": "ai-seo —— 让AI连接更多工具和服务，扩展能力边界"
+  },
+  "awesome-claude-skills": {
+    "description": "awesome-claude-skills —— 装了这个Skill，你的AI就能用上awesome-claude-skills"
+  },
+  "graphify": {
+    "description": "graphify —— 让AI管理你的笔记和知识库，查找资料不用自己翻"
+  },
+  "open-design": {
+    "description": "open-design —— 让AI自己上网查资料，比手动搜索快得多"
+  },
+  "better-auth-best-practices": {
+    "description": "better-auth-best-practices —— 让AI掌握better-auth-best-practices技能，帮你处理相关任务"
+  },
+  "firecrawl-map": {
+    "description": "firecrawl-map —— 让AI掌握firecrawl-map技能，帮你处理相关任务"
+  },
+  "awesome-openclaw-skills": {
+    "description": "awesome-openclaw-skills —— 装了这个Skill，你的AI就能用上awesome-openclaw-skills"
+  },
+  "jeecgboot": {
+    "description": "JeecgBoot —— 让AI帮你编写代码，提升开发效率"
+  },
+  "cowagent": {
+    "description": "CowAgent —— 让AI管理你的笔记和知识库，查找资料不用自己翻"
+  },
+  "stripe-best-practices": {
+    "description": "stripe-best-practices —— 让AI掌握stripe-best-practices技能，帮你处理相关任务"
+  },
+  "antigravity-awesome-skills": {
+    "description": "antigravity-awesome-skills —— 让AI帮你编写代码，提升开发效率"
+  },
+  "turborepo": {
+    "description": "turborepo —— 让AI掌握turborepo技能，帮你处理相关任务"
+  },
+  "obsidian-skills": {
+    "description": "obsidian-skills —— 让AI管理你的笔记和知识库，查找资料不用自己翻"
+  },
+  "ai-sdk": {
+    "description": "ai-sdk —— 让AI连接更多工具和服务，扩展能力边界"
+  },
+  "last30days-skill": {
+    "description": "last30days-skill —— 让AI自己上网查资料，比手动搜索快得多"
+  },
+  "openviking": {
+    "description": "OpenViking —— 让AI记住你的所有信息，告别每次都要重新介绍的烦恼"
+  },
+  "next-upgrade": {
+    "description": "next-upgrade —— 让AI掌握next-upgrade技能，帮你处理相关任务"
+  },
+  "planning-with-files": {
+    "description": "planning-with-files —— 让AI帮你编写代码，提升开发效率"
+  },
+  "activepieces": {
+    "description": "activepieces —— 让AI通过MCP协议连接各种工具和服务"
+  },
+  "tavily-search": {
+    "description": "tavily-search —— 让AI快速搜索和查找信息，找东西不用自己翻"
+  },
+  "mastra": {
+    "description": "mastra —— 让AI掌握mastra技能，帮你处理相关任务"
+  },
+  "prd": {
+    "description": "prd —— 让AI掌握prd技能，帮你处理相关任务"
+  },
+  "claude-skills": {
+    "description": "claude-skills —— 让AI自己上网查资料，比手动搜索快得多"
+  },
+  "headroom": {
+    "description": "headroom —— 让AI通过MCP协议连接各种工具和服务"
+  },
+  "react-native-best-practices": {
+    "description": "react-native-best-practices —— 写前端组件时AI给你最佳实践建议，代码更规范"
+  },
+  "notebooklm-py": {
+    "description": "notebooklm-py —— 让AI管理你的笔记和知识库，查找资料不用自己翻"
+  },
+  "mcp-toolbox": {
+    "description": "mcp-toolbox —— 让AI处理数据生成图表，一目了然"
+  },
+  "ai-guide": {
+    "description": "ai-guide —— 让AI管理你的笔记和知识库，查找资料不用自己翻"
+  },
+  "figma-context-mcp": {
+    "description": "Figma-Context-MCP —— 让AI通过MCP协议连接各种工具和服务"
+  },
+  "anthropic-cybersecurity-skills": {
+    "description": "Anthropic-Cybersecurity-Skills —— 让AI帮你检查安全漏洞，保护代码和数据安全"
+  },
+  "casdoor": {
+    "description": "casdoor —— 让AI自己上网查资料，比手动搜索快得多"
+  },
+  "web-perf": {
+    "description": "web-perf —— 做前端页面时AI给你最佳实践指导，设计更专业"
+  },
+  "auto-claude-code-research-in-sleep": {
+    "description": "Auto-claude-code-research-in-sleep —— 让AI自己上网查资料，比手动搜索快得多"
+  },
+  "prisma-database-setup": {
+    "description": "prisma-database-setup —— 开发后端时AI帮你设计API和数据库架构"
+  },
+  "ai-elements": {
+    "description": "ai-elements —— 让AI连接更多工具和服务，扩展能力边界"
+  },
+  "mcp-use": {
+    "description": "mcp-use —— 让AI帮你编写代码，提升开发效率"
+  },
+  "memos": {
+    "description": "MemOS —— 让AI记住你的所有信息，告别每次都要重新介绍的烦恼"
+  },
+  "parallel-deep-research": {
+    "description": "parallel-deep-research —— 让AI快速搜索和查找信息，找东西不用自己翻"
+  },
+  "hexstrike-ai": {
+    "description": "hexstrike-ai —— 让AI自己上网查资料，比手动搜索快得多"
+  },
+  "deeplake": {
+    "description": "deeplake —— 让AI处理数据生成图表，一目了然"
+  },
+  "clawhub": {
+    "description": "clawhub —— 装了这个Skill，你的AI就能用上clawhub"
+  },
+  "building-components": {
+    "description": "building-components —— 做前端页面时AI给你最佳实践指导，设计更专业"
+  },
+  "desktopcommandermcp": {
+    "description": "DesktopCommanderMCP —— 让AI自己上网查资料，比手动搜索快得多"
+  },
+  "codepilot": {
+    "description": "CodePilot —— 让AI帮你编写代码，提升开发效率"
+  },
+  "stitch-skills": {
+    "description": "stitch-skills —— 让AI帮你编写代码，提升开发效率"
+  },
+  "xcodebuildmcp": {
+    "description": "XcodeBuildMCP —— 让AI帮你编写代码，提升开发效率"
+  },
+  "mobile-mcp": {
+    "description": "mobile-mcp —— 让AI通过MCP协议连接各种工具和服务"
+  },
+  "sandbox": {
+    "description": "sandbox —— 让AI帮你编写代码，提升开发效率"
+  },
+  "superpowers-zh": {
+    "description": "superpowers-zh —— 让AI帮你编写代码，提升开发效率"
+  },
+  "autoresearch": {
+    "description": "autoresearch —— 让AI自己上网查资料，比手动搜索快得多"
+  },
+  "aci": {
+    "description": "aci —— 一句话生成整套系统，让AI帮你完成重复工作"
+  },
+  "peekaboo": {
+    "description": "Peekaboo —— 让AI通过MCP协议连接各种工具和服务"
+  },
+  "claude-code-guide": {
+    "description": "claude-code-guide —— 让AI帮你编写代码，提升开发效率"
+  },
+  "rocketride-server": {
+    "description": "rocketride-server —— 让AI帮你编写代码，提升开发效率"
+  },
+  "generative-media-skills": {
+    "description": "Generative-Media-Skills —— 让AI帮你编写代码，提升开发效率"
+  },
+  "agentgateway": {
+    "description": "agentgateway —— 让AI通过MCP协议连接各种工具和服务"
+  },
+  "unity-mcp": {
+    "description": "Unity-MCP —— 让AI帮你编写代码，提升开发效率"
+  },
+  "buildwithclaude": {
+    "description": "buildwithclaude —— 让AI帮你编写代码，提升开发效率"
+  },
+  "anysearch-skill": {
+    "description": "anysearch-skill —— 让AI自己上网查资料，比手动搜索快得多"
+  },
+  "claude-to-im-skill": {
+    "description": "Claude-to-IM-skill —— 让AI帮你编写代码，提升开发效率"
+  },
+  "react": {
+    "description": "react —— 写前端组件时AI给你最佳实践建议，代码更规范"
+  },
+  "streamdown": {
+    "description": "streamdown —— 让AI掌握streamdown技能，帮你处理相关任务"
+  },
+  "avoid-ai-writing": {
+    "description": "avoid-ai-writing —— 让AI帮你检查安全漏洞，保护代码和数据安全"
+  },
+  "clawgod": {
+    "description": "clawgod —— 让AI帮你编写代码，提升开发效率"
+  },
+  "tutor-skills": {
+    "description": "tutor-skills —— 让AI管理你的笔记和知识库，查找资料不用自己翻"
+  },
+  "skillcolor-expert": {
+    "description": "skill.color-expert —— 让AI帮你编写代码，提升开发效率"
+  },
+  "user-research-skill": {
+    "description": "user-research-skill —— 让AI自己上网查资料，比手动搜索快得多"
+  },
+  "yupi-skill": {
+    "description": "yupi-skill —— 让AI帮你编写代码，提升开发效率"
+  },
+  "comfyui-skills-openclaw": {
+    "description": "ComfyUI_Skills_OpenClaw —— 让AI帮你编写代码，提升开发效率"
+  },
+  "skill-based-architecture": {
+    "description": "skill-based-architecture —— 让AI帮你编写代码，提升开发效率"
+  },
+  "lycheemem": {
+    "description": "LycheeMem —— 让AI记住你的所有信息，告别每次都要重新介绍的烦恼"
+  },
+  "skill-flow": {
+    "description": "skill-flow —— 让AI帮你编写代码，提升开发效率"
+  },
+  "app-it": {
+    "description": "app-it —— 让AI帮你编写代码，提升开发效率"
+  },
+  "opc": {
+    "description": "opc —— 让AI帮你编写代码，提升开发效率"
+  },
+  "visualize": {
+    "description": "visualize —— 让AI帮你编写代码，提升开发效率"
+  },
+  "no-no-debug": {
+    "description": "no-no-debug —— 让AI记住你的所有信息，告别每次都要重新介绍的烦恼"
+  },
+  "computer-use-linux": {
+    "description": "computer-use-linux —— 在浏览器/桌面端管理AI，一切尽在掌握"
+  },
+  "presentation-skills": {
+    "description": "presentation-skills —— 让AI自己上网查资料，比手动搜索快得多"
+  },
+  "anti-ai-slop-writing": {
+    "description": "anti-ai-slop-writing —— 让AI帮你写文章和内容，再也不怕写东西"
+  },
+  "harmonyos-ai-skill": {
+    "description": "harmonyos-ai-skill —— 让AI管理你的笔记和知识库，查找资料不用自己翻"
+  },
+  "apple-health-analyst": {
+    "description": "apple-health-analyst —— 让AI帮你编写代码，提升开发效率"
+  },
+  "kali-pentest": {
+    "description": "kali-pentest —— 让AI帮你编写代码，提升开发效率"
+  },
+  "claude-code-marketplace": {
+    "description": "claude-code-marketplace —— 让AI自己上网查资料，比手动搜索快得多"
+  },
+  "full-stack-audit": {
+    "description": "full-stack-audit —— 让AI自己上网查资料，比手动搜索快得多"
+  },
+  "mathskill": {
+    "description": "Math.Skill —— 让AI自己上网查资料，比手动搜索快得多"
+  },
+  "web-search-plus": {
+    "description": "web-search-plus —— 让AI自己上网查资料，比手动搜索快得多"
+  },
+  "vibe-testing": {
+    "description": "vibe-testing —— 让AI帮你写文章和内容，再也不怕写东西"
+  },
+  "ansari-skill": {
+    "description": "ansari-skill —— 让AI管理你的笔记和知识库，查找资料不用自己翻"
+  },
+  "codex-sessions-manager": {
+    "description": "codex-sessions-manager —— 让AI帮你检查安全漏洞，保护代码和数据安全"
+  },
+  "selftune": {
+    "description": "selftune —— 让AI学会自我优化，越用越聪明"
+  },
+  "accessibility": {
+    "description": "accessibility —— 让AI帮你检查网站是否对残障人士友好，符合无障碍标准"
+  },
+  "agent-architecture-audit": {
+    "description": "agent-architecture-audit —— 让AI给你的AI应用做全面体检，诊断12层架构问题"
+  },
+  "agent-eval": {
+    "description": "agent-eval —— 让AI帮你对比不同编码助手的表现，选出最省钱高效的"
+  },
+  "agent-harness-construction": {
+    "description": "agent-harness-construction —— 让AI帮你优化工具定义和操作空间，提高任务完成率"
+  },
+  "agent-introspection-debugging": {
+    "description": "agent-introspection-debugging —— AI出错了？让它自己诊断自己，自动修复"
+  },
+  "agent-payment-x402": {
+    "description": "agent-payment-x402 —— 让AI能替你花钱——按任务预算调用付费API"
+  },
+  "agentic-engineering": {
+    "description": "agentic-engineering —— 让AI以工程师思维工作——先评估、再分解、再执行"
+  },
+  "ai-first-engineering": {
+    "description": "ai-first-engineering —— 让团队适应AI优先的开发模式，充分发挥AI生产力"
+  },
+  "ai-regression-testing": {
+    "description": "ai-regression-testing —— AI写代码容易出相同错误？让它自己检查自己"
+  },
+  "android-clean-architecture": {
+    "description": "android-clean-architecture —— 让AI遵循Android Clean Architecture最佳实践"
+  },
+  "angular-developer": {
+    "description": "angular-developer —— 让AI成为Angular专家，写出规范的组件和模块"
+  },
+  "api-connector-builder": {
+    "description": "api-connector-builder —— 让AI帮你对接第三方API，不用手写HTTP请求"
+  },
+  "api-design": {
+    "description": "api-design —— 让AI设计RESTful API，考虑一致性、版本化、错误处理"
+  },
+  "architecture-decision-records": {
+    "description": "architecture-decision-records —— 让AI自动记录架构决策，团队新成员一看就懂"
+  },
+  "article-writing": {
+    "description": "article-writing —— 让AI帮你写文章，从大纲到成稿一条龙"
+  },
+  "automation-audit-ops": {
+    "description": "automation-audit-ops —— 让AI审计你的自动化流程，找出瓶颈和风险"
+  },
+  "autonomous-agent-harness": {
+    "description": "autonomous-agent-harness —— 让AI搭建自主运行的代理系统，24小时不停工"
+  },
+  "autonomous-loops": {
+    "description": "autonomous-loops —— 让AI在安全边界内自主循环执行，你只需监督结果"
+  },
+  "backend-patterns": {
+    "description": "backend-patterns —— 让AI遵循后端最佳实践——分层、依赖注入、错误处理"
+  },
+  "benchmark": {
+    "description": "benchmark —— 让AI帮你跑基准测试，对比不同方案的性能"
+  },
+  "benchmark-optimization-loop": {
+    "description": "benchmark-optimization-loop —— 让AI自动优化性能，反复测试直到达标"
+  },
+  "blender-motion-state-inspection": {
+    "description": "blender-motion-state-inspection —— 让AI分析Blender动画状态，调试3D运动问题"
+  },
+  "blueprint": {
+    "description": "blueprint —— 让AI生成项目蓝图，开工前把架构想清楚"
+  },
+  "brand-voice": {
+    "description": "brand-voice —— 让AI学会你的品牌调性，所有对外内容风格统一"
+  },
+  "browser-qa": {
+    "description": "browser-qa —— 让AI自动测试网页，点点点不用你动手"
+  },
+  "bun-runtime": {
+    "description": "bun-runtime —— 让AI用Bun运行时优化JavaScript项目，启动速度更快"
+  },
+  "canary-watch": {
+    "description": "canary-watch —— 让AI监控部署后的金丝雀发布，异常自动回滚"
+  },
+  "carrier-relationship-management": {
+    "description": "carrier-relationship-management —— 让AI管理物流承运商关系，跟踪合同和绩效"
+  },
+  "cisco-ios-patterns": {
+    "description": "cisco-ios-patterns —— 让AI帮你配置Cisco网络设备，不用背命令"
+  },
+  "claude-devfleet": {
+    "description": "claude-devfleet —— 让AI管理多Claude Code实例协同工作"
+  },
+  "click-path-audit": {
+    "description": "click-path-audit —— 让AI审计用户点击路径，找出转化率瓶颈"
+  },
+  "clickhouse-io": {
+    "description": "clickhouse-io —— 让AI优化ClickHouse查询，数据分析速度起飞"
+  },
+  "code-tour": {
+    "description": "code-tour —— 让AI带你逛代码库，新手也能快速熟悉项目结构"
+  },
+  "codebase-onboarding": {
+    "description": "codebase-onboarding —— 让AI帮你理解新代码库，入职新项目更快上手"
+  },
+  "codehealth-mcp": {
+    "description": "codehealth-mcp —— 让AI通过MCP协议检查代码健康度，持续质量监控"
+  },
+  "coding-standards": {
+    "description": "coding-standards —— 让AI强制执行编码规范，团队代码风格统一"
+  },
+  "compose-multiplatform-patterns": {
+    "description": "compose-multiplatform-patterns —— 让AI按Jetpack Compose Multiplatform最佳实践开发"
+  },
+  "connections-optimizer": {
+    "description": "connections-optimizer —— 让AI优化人脉网络，发现最有价值的连接"
+  },
+  "content-engine": {
+    "description": "content-engine —— 让AI成为你的内容引擎——批量生成高质量内容"
+  },
+  "content-hash-cache-pattern": {
+    "description": "content-hash-cache-pattern —— 让AI用内容哈希做缓存，避免重复计算"
+  },
+  "context-budget": {
+    "description": "context-budget —— 让AI精打细算上下文窗口，防止超出token限制"
+  },
+  "continuous-agent-loop": {
+    "description": "continuous-agent-loop —— 让AI持续运行循环任务，定时检查、自动处理"
+  },
+  "continuous-learning": {
+    "description": "continuous-learning —— 让AI从每次对话中学习，越用越懂你"
+  },
+  "continuous-learning-v2": {
+    "description": "continuous-learning-v2 —— 让AI持续进化——自动提取模式生成新技能"
+  },
+  "cost-aware-llm-pipeline": {
+    "description": "cost-aware-llm-pipeline —— 让AI聪明选择模型——简单任务用便宜模型，复杂任务用强模型"
+  },
+  "cost-tracking": {
+    "description": "cost-tracking —— 让AI跟踪API花费，预算超标自动预警"
+  },
+  "cpp-coding-standards": {
+    "description": "cpp-coding-standards —— 让AI按C++最佳规范编码，避免内存泄漏等坑"
+  },
+  "cpp-testing": {
+    "description": "cpp-testing —— 让AI给C++代码写测试，覆盖边界条件和异常路径"
+  },
+  "crosspost": {
+    "description": "crosspost —— 让AI一键把内容同步到多个平台"
+  },
+  "csharp-testing": {
+    "description": "csharp-testing —— 让AI给C#代码写单元测试，确保.NET项目质量"
+  },
+  "customer-billing-ops": {
+    "description": "customer-billing-ops —— 让AI处理客户计费流程，自动生成账单和处理纠纷"
+  },
+  "customs-trade-compliance": {
+    "description": "customs-trade-compliance —— 让AI检查跨境贸易合规，避免海关罚款"
+  },
+  "dart-flutter-patterns": {
+    "description": "dart-flutter-patterns —— 让AI遵循Dart/Flutter最佳实践，写出高质量跨平台代码"
+  },
+  "dashboard-builder": {
+    "description": "dashboard-builder —— 让AI帮你搭建数据仪表盘，可视化关键指标"
+  },
+  "data-scraper-agent": {
+    "description": "data-scraper-agent —— 让AI自动抓取网页数据，不用写爬虫"
+  },
+  "data-throughput-accelerator": {
+    "description": "data-throughput-accelerator —— 让AI优化数据处理流水线，吞吐量翻倍"
+  },
+  "database-migrations": {
+    "description": "database-migrations —— 让AI帮你写数据库迁移脚本，数据变更零失误"
+  },
+  "deep-research": {
+    "description": "deep-research —— 让AI帮你做深度研究，从海量资料中提炼洞见"
+  },
+  "defi-amm-security": {
+    "description": "defi-amm-security —— 让AI审计DeFi自动做市商合约安全，防止黑客攻击"
+  },
+  "deployment-patterns": {
+    "description": "deployment-patterns —— 让AI帮你规划部署策略，蓝绿部署/滚动更新一键配置"
+  },
+  "design-system": {
+    "description": "design-system —— 让AI帮你构建设计系统，组件库风格一致"
+  },
+  "django-celery": {
+    "description": "django-celery —— 让AI配置Django + Celery异步任务，后台任务自动跑"
+  },
+  "django-patterns": {
+    "description": "django-patterns —— 让AI按Django最佳实践开发——MTV模式、ORM优化"
+  },
+  "django-security": {
+    "description": "django-security —— 让AI检查Django应用安全，防止SQL注入和XSS"
+  },
+  "django-tdd": {
+    "description": "django-tdd —— 让AI用测试驱动开发Django应用，先写测试再写代码"
+  },
+  "django-verification": {
+    "description": "django-verification —— 让AI验证Django功能完整性，确保API和视图正常工作"
+  },
+  "docker-patterns": {
+    "description": "docker-patterns —— 让AI写出最优Dockerfile，镜像更小构建更快"
+  },
+  "documentation-lookup": {
+    "description": "documentation-lookup —— 让AI帮你查API文档，不用离开编辑器"
+  },
+  "dotnet-patterns": {
+    "description": "dotnet-patterns —— 让AI按.NET最佳实践开发，写出高质量C#代码"
+  },
+  "e2e-testing": {
+    "description": "e2e-testing —— 让AI给你写端到端测试，关键用户流程全覆盖"
+  },
+  "email-ops": {
+    "description": "email-ops —— 让AI处理邮件运营——模板、发送、跟踪一条龙"
+  },
+  "energy-procurement": {
+    "description": "energy-procurement —— 让AI优化能源采购策略，降低电费成本"
+  },
+  "error-handling": {
+    "description": "error-handling —— 让AI设计错误处理方案，优雅地处理所有异常"
+  },
+  "eval-harness": {
+    "description": "eval-harness —— 让AI搭建评估框架，量化AI助手表现"
+  },
+  "evm-token-decimals": {
+    "description": "evm-token-decimals —— 让AI处理EVM代币精度，转账计算不出错"
+  },
+  "exa-search": {
+    "description": "exa-search —— 让AI用Exa搜索引擎找信息，比普通搜索更精准"
+  },
+  "fal-ai-media": {
+    "description": "fal-ai-media —— 让AI用fal.ai生成图片和视频，创意内容一键出"
+  },
+  "fastapi-patterns": {
+    "description": "fastapi-patterns —— 让AI按FastAPI最佳实践开发，异步API性能拉满"
+  },
+  "finance-billing-ops": {
+    "description": "finance-billing-ops —— 让AI处理财务计费流程，发票、对账、催款自动完成"
+  },
+  "flox-environments": {
+    "description": "flox-environments —— 让AI用Flox管理开发环境，依赖冲突不再愁"
+  },
+  "flutter-dart-code-review": {
+    "description": "flutter-dart-code-review —— 让AI审查Flutter/Dart代码质量"
+  },
+  "foundation-models-on-device": {
+    "description": "foundation-models-on-device —— 让AI在手机上跑基础模型，离线也能用AI"
+  },
+  "frontend-a11y": {
+    "description": "frontend-a11y —— 让AI帮你做前端无障碍适配，覆盖所有用户"
+  },
+  "frontend-design-direction": {
+    "description": "frontend-design-direction —— 让AI帮你确定前端设计方向，从需求到设计稿"
+  },
+  "frontend-patterns": {
+    "description": "frontend-patterns —— 让AI遵循前端最佳实践——组件化、状态管理、性能优化"
+  },
+  "frontend-slides": {
+    "description": "frontend-slides —— 让AI帮你生成HTML幻灯片，不用PPT软件"
+  },
+  "fsharp-testing": {
+    "description": "fsharp-testing —— 让AI给F#函数式代码写测试"
+  },
+  "gan-style-harness": {
+    "description": "gan-style-harness —— 让AI用GAN生成风格化内容，创意无限"
+  },
+  "gateguard": {
+    "description": "gateguard —— 让AI守卫代码质量门禁，不符合标准不放行"
+  },
+  "git-workflow": {
+    "description": "git-workflow —— 让AI优化Git工作流，合并冲突少一半"
+  },
+  "github-ops": {
+    "description": "github-ops —— 让AI帮你管理GitHub仓库——Issue、PR、Release全自动"
+  },
+  "golang-patterns": {
+    "description": "golang-patterns —— 让AI按Go语言最佳实践开发，并发安全优雅"
+  },
+  "golang-testing": {
+    "description": "golang-testing —— 让AI给Go代码写测试，覆盖goroutine并发场景"
+  },
+  "google-workspace-ops": {
+    "description": "google-workspace-ops —— 让AI操作Google Workspace——邮件、日历、文档全搞定"
+  },
+  "healthcare-cdss-patterns": {
+    "description": "healthcare-cdss-patterns —— 让AI遵循医疗临床决策支持系统规范"
+  },
+  "healthcare-emr-patterns": {
+    "description": "healthcare-emr-patterns —— 让AI处理电子病历数据，符合医疗行业标准"
+  },
+  "healthcare-eval-harness": {
+    "description": "healthcare-eval-harness —— 让AI评估医疗AI模型的安全性和效果"
+  },
+  "healthcare-phi-compliance": {
+    "description": "healthcare-phi-compliance —— 让AI保护患者隐私数据，符合HIPAA法规"
+  },
+  "hexagonal-architecture": {
+    "description": "hexagonal-architecture —— 让AI按六边形架构设计，业务逻辑与外部解耦"
+  },
+  "hipaa-compliance": {
+    "description": "hipaa-compliance —— 让AI确保应用符合HIPAA医疗数据隐私法规"
+  },
+  "homelab-network-readiness": {
+    "description": "homelab-network-readiness —— 让AI帮你规划家庭实验室网络架构"
+  },
+  "homelab-network-setup": {
+    "description": "homelab-network-setup —— 让AI帮你搭建家庭实验室网络"
+  },
+  "homelab-pihole-dns": {
+    "description": "homelab-pihole-dns —— 让AI配置Pi-hole DNS，全家去广告"
+  },
+  "homelab-vlan-segmentation": {
+    "description": "homelab-vlan-segmentation —— 让AI划分VLAN网络，家庭网络更安全"
+  },
+  "homelab-wireguard-vpn": {
+    "description": "homelab-wireguard-vpn —— 让AI配置WireGuard VPN，远程访问家庭网络"
+  },
+  "inherit-legacy-style": {
+    "description": "inherit-legacy-style —— 让AI帮你Legacy-project style inheritance skill. Use when the user ty"
+  },
+  "intent-driven-development": {
+    "description": "intent-driven-development —— 让AI按意图驱动开发——你说要什么，它自动实现"
+  },
+  "inventory-demand-planning": {
+    "description": "inventory-demand-planning —— 让AI预测库存需求，缺货积压都减少"
+  },
+  "investor-materials": {
+    "description": "investor-materials —— 让AI帮你准备投资人材料，路演PPT和商业计划书"
+  },
+  "investor-outreach": {
+    "description": "investor-outreach —— 让AI帮你写投资人沟通邮件，提高回复率"
+  },
+  "ios-icon-gen": {
+    "description": "ios-icon-gen —— 让AI生成iOS应用图标，不用请设计师"
+  },
+  "iterative-retrieval": {
+    "description": "iterative-retrieval —— 让AI迭代检索信息，一次找不全就再找一次"
+  },
+  "ito-basket-compare": {
+    "description": "ito-basket-compare —— 让AI对比预测市场篮子，找出最佳投资组合"
+  },
+  "ito-data-atlas-agent": {
+    "description": "ito-data-atlas-agent —— 让AI分析预测市场数据图谱"
+  },
+  "ito-market-intelligence": {
+    "description": "ito-market-intelligence —— 让AI分析预测市场情报，发现套利机会"
+  },
+  "ito-trade-planner": {
+    "description": "ito-trade-planner —— 让AI规划预测市场交易策略"
+  },
+  "java-coding-standards": {
+    "description": "java-coding-standards —— 让AI按Java编码规范写代码，团队风格一致"
+  },
+  "jira-integration": {
+    "description": "jira-integration —— 让AI与Jira集成——创建任务、更新进度、生成报告"
+  },
+  "jpa-patterns": {
+    "description": "jpa-patterns —— 让AI按JPA最佳实践操作数据库，ORM性能优化"
+  },
+  "knowledge-ops": {
+    "description": "knowledge-ops —— 让AI管理团队知识库，信息不丢失"
+  },
+  "kotlin-coroutines-flows": {
+    "description": "kotlin-coroutines-flows —— 让AI用Kotlin协程和Flow处理异步，代码更简洁"
+  },
+  "kotlin-exposed-patterns": {
+    "description": "kotlin-exposed-patterns —— 让AI用Kotlin Exposed框架操作数据库"
+  },
+  "kotlin-ktor-patterns": {
+    "description": "kotlin-ktor-patterns —— 让AI按Ktor最佳实践开发后端服务"
+  },
+  "kotlin-patterns": {
+    "description": "kotlin-patterns —— 让AI按Kotlin最佳实践开发，空安全、扩展函数用起来"
+  },
+  "kotlin-testing": {
+    "description": "kotlin-testing —— 让AI给Kotlin代码写测试"
+  },
+  "kubernetes-patterns": {
+    "description": "kubernetes-patterns —— 让AI帮你管理K8s集群——部署、扩缩容、配置"
+  },
+  "laravel-patterns": {
+    "description": "laravel-patterns —— 让AI按Laravel最佳实践开发，优雅的PHP代码"
+  },
+  "laravel-plugin-discovery": {
+    "description": "laravel-plugin-discovery —— 让AI自动发现和配置Laravel插件"
+  },
+  "laravel-security": {
+    "description": "laravel-security —— 让AI检查Laravel应用安全"
+  },
+  "laravel-tdd": {
+    "description": "laravel-tdd —— 让AI用测试驱动开发Laravel应用"
+  },
+  "laravel-verification": {
+    "description": "laravel-verification —— 让AI验证Laravel功能完整性"
+  },
+  "latency-critical-systems": {
+    "description": "latency-critical-systems —— 让AI优化延迟敏感系统，响应时间降到最低"
+  },
+  "lead-intelligence": {
+    "description": "lead-intelligence —— 让AI分析潜在客户情报，销售更有针对性"
+  },
+  "liquid-glass-design": {
+    "description": "liquid-glass-design —— 让AI实现毛玻璃UI效果，界面更有质感"
+  },
+  "llm-trading-agent-security": {
+    "description": "llm-trading-agent-security —— 让AI审计交易AI的安全性，防止金钱损失"
+  },
+  "logistics-exception-management": {
+    "description": "logistics-exception-management —— 让AI处理物流异常——丢件、延迟自动响应"
+  },
+  "make-interfaces-feel-better": {
+    "description": "make-interfaces-feel-better —— 让AI改善界面交互体验，用户用着更顺手"
+  },
+  "manim-video": {
+    "description": "manim-video —— 让AI生成3Blue1Brown风格的数学动画视频"
+  },
+  "market-research": {
+    "description": "market-research —— 让AI做市场调研，竞品分析、趋势预测"
+  },
+  "marketing-campaign": {
+    "description": "marketing-campaign —— 让AI策划和执行营销活动，从文案到渠道一键搞定"
+  },
+  "mcp-server-patterns": {
+    "description": "mcp-server-patterns —— 让AI帮你搭建MCP服务器，扩展AI工具生态"
+  },
+  "messages-ops": {
+    "description": "messages-ops —— 让AI管理消息队列，确保消息不丢失不重复"
+  },
+  "mle-workflow": {
+    "description": "mle-workflow —— 让AI按ML工程最佳实践——实验追踪、模型评估、部署"
+  },
+  "motion-advanced": {
+    "description": "motion-advanced —— 让AI实现高级动效，页面动感十足"
+  },
+  "motion-foundations": {
+    "description": "motion-foundations —— 让AI实现基础动效，界面丝滑流畅"
+  },
+  "motion-patterns": {
+    "description": "motion-patterns —— 让AI按动效最佳实践做交互动画"
+  },
+  "motion-ui": {
+    "description": "motion-ui —— 让AI给UI加过渡动画，用户体验提升"
+  },
+  "mysql-patterns": {
+    "description": "mysql-patterns —— 让AI优化MySQL查询和表设计，数据库性能拉满"
+  },
+  "nestjs-patterns": {
+    "description": "nestjs-patterns —— 让AI按NestJS最佳实践开发后端，模块化、依赖注入"
+  },
+  "netmiko-ssh-automation": {
+    "description": "netmiko-ssh-automation —— 让AI自动配置网络设备，SSH批量操作"
+  },
+  "network-bgp-diagnostics": {
+    "description": "network-bgp-diagnostics —— 让AI诊断BGP网络故障"
+  },
+  "network-config-validation": {
+    "description": "network-config-validation —— 让AI验证网络配置正确性"
+  },
+  "network-interface-health": {
+    "description": "network-interface-health —— 让AI监控网络接口健康状态"
+  },
+  "nextjs-turbopack": {
+    "description": "nextjs-turbopack —— 让AI用Next.js Turbopack加速开发，热更新飞快"
+  },
+  "nodejs-keccak256": {
+    "description": "nodejs-keccak256 —— 让AI处理Node.js keccak256哈希计算"
+  },
+  "nutrient-document-processing": {
+    "description": "nutrient-document-processing —— 让AI处理文档——PDF解析、格式转换"
+  },
+  "nuxt4-patterns": {
+    "description": "nuxt4-patterns —— 让AI按Nuxt 4最佳实践开发Vue应用"
+  },
+  "opensource-pipeline": {
+    "description": "opensource-pipeline —— 让AI帮你\"Open-source pipeline: fork, sanitize, and package private p"
+  },
+  "parallel-execution-optimizer": {
+    "description": "parallel-execution-optimizer —— 让AI并行执行任务，速度翻倍"
+  },
+  "perl-patterns": {
+    "description": "perl-patterns —— 让AI按Perl最佳实践写脚本"
+  },
+  "perl-security": {
+    "description": "perl-security —— 让AI检查Perl代码安全"
+  },
+  "perl-testing": {
+    "description": "perl-testing —— 让AI给Perl代码写测试"
+  },
+  "plankton-code-quality": {
+    "description": "plankton-code-quality —— 让AI检查代码质量，小问题自动修复"
+  },
+  "postgres-patterns": {
+    "description": "postgres-patterns —— 让AI优化PostgreSQL——索引、查询、分区全搞定"
+  },
+  "prediction-market-oracle-research": {
+    "description": "prediction-market-oracle-research —— 让AI研究预测市场预言机数据"
+  },
+  "prediction-market-risk-review": {
+    "description": "prediction-market-risk-review —— 让AI评估预测市场风险"
+  },
+  "prisma-patterns": {
+    "description": "prisma-patterns —— 让AI用Prisma操作数据库，类型安全不出错"
+  },
+  "product-capability": {
+    "description": "product-capability —— 让AI梳理产品能力清单"
+  },
+  "product-lens": {
+    "description": "product-lens —— 让AI从用户视角分析产品"
+  },
+  "production-audit": {
+    "description": "production-audit —— 让AI审计生产环境——性能、安全、成本全覆盖"
+  },
+  "production-scheduling": {
+    "description": "production-scheduling —— 让AI优化生产排程，产能利用率最大化"
+  },
+  "project-flow-ops": {
+    "description": "project-flow-ops —— 让AI管理项目流程，任务跟踪自动更新"
+  },
+  "prompt-optimizer": {
+    "description": "prompt-optimizer —— 让AI优化你的提示词，输出质量更高"
+  },
+  "python-patterns": {
+    "description": "python-patterns —— 让AI按Python最佳实践开发，代码Pythonic"
+  },
+  "python-testing": {
+    "description": "python-testing —— 让AI给Python代码写测试，pytest全覆盖"
+  },
+  "pytorch-patterns": {
+    "description": "pytorch-patterns —— 让AI按PyTorch最佳实践训练模型"
+  },
+  "quality-nonconformance": {
+    "description": "quality-nonconformance —— 让AI处理质量不合格报告"
+  },
+  "quarkus-patterns": {
+    "description": "quarkus-patterns —— 让AI按Quarkus最佳实践开发Java微服务"
+  },
+  "quarkus-security": {
+    "description": "quarkus-security —— 让AI检查Quarkus应用安全"
+  },
+  "quarkus-tdd": {
+    "description": "quarkus-tdd —— 让AI用测试驱动开发Quarkus应用"
+  },
+  "quarkus-verification": {
+    "description": "quarkus-verification —— 让AI验证Quarkus功能完整性"
+  },
+  "ralphinho-rfc-pipeline": {
+    "description": "ralphinho-rfc-pipeline —— 让AI帮你RFC-driven multi-agent DAG execution pattern with quality ga"
+  },
+  "react-patterns": {
+    "description": "react-patterns —— 让AI按React最佳实践开发，Hooks用对、性能优化"
+  },
+  "react-performance": {
+    "description": "react-performance —— 让AI优化React性能，减少不必要的重渲染"
+  },
+  "react-testing": {
+    "description": "react-testing —— 让AI给React组件写测试"
+  },
+  "recsys-pipeline-architect": {
+    "description": "recsys-pipeline-architect —— 让AI设计推荐系统架构"
+  },
+  "recursive-decision-ledger": {
+    "description": "recursive-decision-ledger —— 让AI记录递归决策过程，复杂逻辑可追溯"
+  },
+  "redis-patterns": {
+    "description": "redis-patterns —— 让AI优化Redis使用——缓存、队列、分布式锁"
+  },
+  "regex-vs-llm-structured-text": {
+    "description": "regex-vs-llm-structured-text —— 让AI判断用正则还是LLM提取结构化文本"
+  },
+  "remotion-video-creation": {
+    "description": "remotion-video-creation —— 让AI用React代码生成视频，编程做视频"
+  },
+  "repo-scan": {
+    "description": "repo-scan —— 让AI扫描代码仓库，发现潜在问题"
+  },
+  "research-ops": {
+    "description": "research-ops —— 让AI管理研究流程，文献、实验、笔记全记录"
+  },
+  "returns-reverse-logistics": {
+    "description": "returns-reverse-logistics —— 让AI处理退货逆向物流"
+  },
+  "rust-patterns": {
+    "description": "rust-patterns —— 让AI按Rust最佳实践开发，内存安全零成本抽象"
+  },
+  "rust-testing": {
+    "description": "rust-testing —— 让AI给Rust代码写测试"
+  },
+  "safety-guard": {
+    "description": "safety-guard —— 让AI做安全护栏，防止危险操作"
+  },
+  "santa-method": {
+    "description": "santa-method —— 让AI用SANTA方法逐步推理，复杂问题也不出错"
+  },
+  "scientific-db-pubmed-database": {
+    "description": "scientific-db-pubmed-database —— 让AI查询PubMed医学文献数据库"
+  },
+  "scientific-db-uspto-database": {
+    "description": "scientific-db-uspto-database —— 让AI查询USPTO专利数据库"
+  },
+  "scientific-pkg-gget": {
+    "description": "scientific-pkg-gget —— 让AI用gget工具分析生物信息学数据"
+  },
+  "scientific-thinking-literature-review": {
+    "description": "scientific-thinking-literature-review —— 让AI做文献综述，自动总结研究进展"
+  },
+  "scientific-thinking-scholar-evaluation": {
+    "description": "scientific-thinking-scholar-evaluation —— 让AI评估学术论文质量"
+  },
+  "search-first": {
+    "description": "search-first —— 让AI搜索优先——遇到问题先查信息再回答"
+  },
+  "security-bounty-hunter": {
+    "description": "security-bounty-hunter —— 让AI帮你找安全漏洞，挖漏洞赚赏金"
+  },
+  "security-review": {
+    "description": "security-review —— 让AI审查代码安全，发现潜在漏洞"
+  },
+  "security-scan": {
+    "description": "security-scan —— 让AI做全面安全扫描，1282项检查全覆盖"
+  },
+  "seo": {
+    "description": "seo —— 让AI优化网站SEO，搜索排名往上涨"
+  },
+  "social-graph-ranker": {
+    "description": "social-graph-ranker —— 让AI分析社交关系图谱"
+  },
+  "social-publisher": {
+    "description": "social-publisher —— 让AI自动发布内容到社交平台"
+  },
+  "springboot-patterns": {
+    "description": "springboot-patterns —— 让AI按Spring Boot最佳实践开发Java后端"
+  },
+  "springboot-security": {
+    "description": "springboot-security —— 让AI检查Spring Boot应用安全"
+  },
+  "springboot-tdd": {
+    "description": "springboot-tdd —— 让AI用测试驱动开发Spring Boot应用"
+  },
+  "springboot-verification": {
+    "description": "springboot-verification —— 让AI验证Spring Boot功能完整性"
+  },
+  "strategic-compact": {
+    "description": "strategic-compact —— 让AI帮你做战略规划"
+  },
+  "swift-actor-persistence": {
+    "description": "swift-actor-persistence —— 让AI用Swift Actor做数据持久化，线程安全"
+  },
+  "swift-concurrency-6-2": {
+    "description": "swift-concurrency-6-2 —— 让AI用Swift 6.2并发特性写出安全异步代码"
+  },
+  "swift-protocol-di-testing": {
+    "description": "swift-protocol-di-testing —— 让AI用协议依赖注入测试Swift代码"
+  },
+  "swiftui-patterns": {
+    "description": "swiftui-patterns —— 让AI按SwiftUI最佳实践开发iOS应用"
+  },
+  "tdd-workflow": {
+    "description": "tdd-workflow —— 让AI用TDD流程开发——红绿重构循环"
+  },
+  "team-builder": {
+    "description": "team-builder —— 让AI帮你组建团队，匹配角色和技能"
+  },
+  "terminal-ops": {
+    "description": "terminal-ops —— 让AI管理终端操作——命令历史、别名、自动化"
+  },
+  "tinystruct-patterns": {
+    "description": "tinystruct-patterns —— 让AI用TinyStruct框架开发"
+  },
+  "token-budget-advisor": {
+    "description": "token-budget-advisor —— 让AI建议token预算，防止超支"
+  },
+  "ui-demo": {
+    "description": "ui-demo —— 让AI快速生成UI原型，想法变可交互页面"
+  },
+  "ui-to-vue": {
+    "description": "ui-to-vue —— 让AI把设计稿转成Vue组件"
+  },
+  "unified-notifications-ops": {
+    "description": "unified-notifications-ops —— 让AI统一管理所有通知，不遗漏重要消息"
+  },
+  "verification-loop": {
+    "description": "verification-loop —— 让AI反复验证——做完一步检查一步"
+  },
+  "video-editing": {
+    "description": "video-editing —— 让AI剪辑视频，自动化编辑流程"
+  },
+  "videodb": {
+    "description": "videodb —— 让AI用VideoDB处理视频数据"
+  },
+  "visa-doc-translate": {
+    "description": "visa-doc-translate —— 让AI翻译签证文件，表格格式不变"
+  },
+  "vite-patterns": {
+    "description": "vite-patterns —— 让AI用Vite构建工具，开发体验丝滑"
+  },
+  "windows-desktop-e2e": {
+    "description": "windows-desktop-e2e —— 让AI测试Windows桌面应用，自动化端到端测试"
+  },
+  "workspace-surface-audit": {
+    "description": "workspace-surface-audit —— 让AI审计工作空间配置"
+  },
+  "x-api": {
+    "description": "x-api —— 让AI发推、查时间线、管理X(Twitter)账号"
+  }
+}
