@@ -2102,6 +2102,31 @@
     "created_at": "2026-06-08"
   },
   {
+    "id": "shuorenhua",
+    "name": "shuorenhua",
+    "benefit": "写完后AI帮你去掉AI味，让文章读起来更像人写的",
+    "description": "说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.",
+    "category": "内容创作",
+    "score": 5.4,
+    "stars": 395,
+    "downloads": 585,
+    "updated": "2026-06-10",
+    "install": "git clone https://github.com/MrGeDiao/shuorenhua.git",
+    "license": "MIT",
+    "url": "https://github.com/MrGeDiao/shuorenhua",
+    "tags": [
+      "写作",
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex"
+    ],
+    "created_at": "2026-06-10"
+  },
+  {
     "id": "user-research-skill",
     "name": "user-research-skill",
     "benefit": "让AI自己上网查资料，比手动搜索快得多",
