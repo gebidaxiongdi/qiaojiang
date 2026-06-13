@@ -2366,6 +2366,30 @@
     "created_at": "2026-06-08"
   },
   {
+    "id": "pitchcraft",
+    "name": "pitchcraft",
+    "benefit": "写代码时AI实时辅助，提升开发效率减少bug",
+    "description": "汇报.skill · pitchcraft — Structured persuasion for tech leads, PMs, and founders: kickoff, status, wrap-up, pitch, and solution selling on one 5-part framework (Hook→Context→Proposal→Evidence→Ask), with AI material intake and a pre-submit checklist. Works with Claude Code, Cursor, Codex, and more.",
+    "category": "系统工具",
+    "score": 5.4,
+    "stars": 163,
+    "downloads": 303,
+    "updated": "2026-06-13",
+    "install": "git clone https://github.com/moshuying/pitchcraft.git",
+    "license": "APACHE-2.0",
+    "url": "https://github.com/moshuying/pitchcraft",
+    "tags": [
+      "编程",
+      "Claude"
+    ],
+    "source": "github",
+    "platforms": [
+      "claude",
+      "codex"
+    ],
+    "created_at": "2026-06-13"
+  },
+  {
     "id": "visualize",
     "name": "visualize",
     "benefit": "让AI帮你编写代码，提升开发效率",
